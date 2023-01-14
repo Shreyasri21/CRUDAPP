@@ -1,0 +1,82 @@
+body {
+    background-color: #aa586a;
+}
+
+.form {
+    padding: 10vh;
+    background-color: #282A3A;
+    height: 25vh;
+    width: 25vw;
+    margin-top: 10vh;
+    margin-left: 25vw;
+    border-radius: 10px;
+}
+
+.form label {
+    font-weight: bold;
+    color: #eb4569;
+    background-color: #282A3A;
+    margin-left: 3vw;
+}
+
+.form input {
+    background-color: aliceblue;
+
+}
+
+#name {
+    margin-left: 5.1vw;
+}
+
+#email {
+    margin-left: 5.3vw;
+}
+
+#password {
+    margin-left: 3vw;
+}
+
+.form div {
+    background-color: #282A3A;
+}
+
+button {
+    background-color: #EB455F;
+    width: 10vw;
+    height: 3vh;
+    margin-top: 3vh;
+    margin-left: 8vw;
+}
+
+
+
+/* /* .tableh span {
+    display: inline;
+} */
+
+.showDataStyles {
+    border: solid cyan;
+    width: 50vw;
+    height: auto;
+    margin-left: 20vw;
+
+    background-color: rgb(11, 34, 82);
+    color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+
+.th {
+    border: solid rgb(86, 177, 109);
+    width: 50vw;
+    height: auto;
+    margin-left: 20vw;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    background-color: #282A3A;
+    color: #eb4569;
+    display: flex;
+    justify-content: space-between;
+    padding: auto;
+    font-weight: bold;
+}
